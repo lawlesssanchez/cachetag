@@ -1,66 +1,33 @@
-CacheTag™ Framework
-A Lightweight, Hashtag-Triggered RAG Cache Using Natural-Language HashPacks™
-Primary Author:
-Dena Lawless — Zhooshh Venture Studio
-Contributing Originator:
-Abe Jarrett
+CacheTag™ — A Hashtag-Triggered, Just-In-Time Retrieval Layer for AI
 
-Overview
-CacheTag™ is a lightweight, hashtag-triggered RAG cache that returns curated Top-5 HashPacks™ instead of regenerating full LLM responses. This system dramatically reduces redundant computation, improves answer stability, and provides fast, predictable responses.
-HashPacks automatically refresh every 30 days (TTL) or on user request, creating a sustainable, energy-efficient AI workflow that delivers many benefits of Retrieval-Augmented Generation (RAG) without embeddings or vector databases. This repository introduces CacheTag — a just-in-time memory and retrieval system built to work seamlessly with Model Context Protocol (MCP), enabling AI models to access only the precise, policy-approved information they need in real time. This solution, if adopted widely, will save the overuse of resources from duplicate requests. 
+By Dena Lawless (Author)
+with Abe Jarrett (Contributing Originator)
 
-How CacheTag Works
-1. Hashtag Trigger
-Typing a hashtag (e.g., #Fintech, #Leadership, #USC) retrieves the associated HashPack instantly.
-2. HashPacks™
-Each HashPack contains:
-A topic name
+CacheTag™ is a lightweight, hashtag-driven retrieval cache that returns curated Top-5 Q&A “HashPacks™” instead of regenerating answers from scratch. It removes the need for embeddings, vector databases, or indexing — everything operates at the natural-language layer.
 
+When combined with Anthropic’s Model Context Protocol (MCP), CacheTag becomes a governed, secure, just-in-time recall architecture for enterprise AI systems.
 
-Top 5 Q&A entries
+Features
 
-Timestamp of last refresh
+Hashtag-triggered retrieval
 
-Optional personalization layer
+Natural-language HashPacks
 
-3. 30-Day TTL Refresh
-HashPacks refresh automatically every 30 days, or users can request updates with:
-refresh #Topic
+30-day TTL auto-refresh
 
+Governance-friendly
 
-expand #Topic
+Fast, stable, consistent answers
 
+No infrastructure complexity
 
-narrow #Topic to X
+Use Cases
 
+Productivity apps, copilots, onboarding, enterprise knowledge systems, fintech workflows, customer support, internal assistants.
 
+Whitepaper
 
-Benefits
-Ultra-fast response
-
-
-Significantly lower compute cost
-
-
-More consistent answers
-
-
-Transparent and auditable
-
-
-Easy for users to understand
-
-
-Minimal infrastructure required
-
-
-Ideal for enterprise AI systems
-
-
-
-Documentation
-Full whitepaper:
-./CacheTag-Whitepaper.md
+Full whitepaper included in /docs/CacheTag-Whitepaper.pdf (upload yours here).
 
 Credits
 Primary Author:
