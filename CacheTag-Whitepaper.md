@@ -2,7 +2,7 @@ CACHETAG™ WHITEPAPER
 A Deliberately Simple, Hashtag-Triggered, Just-In-Time Retrieval System for AI
 Author: Dena Lawless
 Contributing Originator: Abe Jarrett
-Project: CacheTag™ (formerly CachePrompt)
+Project: CacheTag™ 
 
 Executive Summary
 CacheTag™ introduces a new pattern for AI systems: a deliberately simple, hashtag-triggered retrieval cache that returns curated HashPacks™—small, natural-language knowledge capsules—whenever a user types a hashtag.
