@@ -29,7 +29,7 @@ Productivity apps, copilots, onboarding, enterprise knowledge systems, fintech w
 
 Whitepaper
 
-Full whitepaper included in /docs/CacheTag-Whitepaper.pdf (upload yours here).
+Full whitepaper included in /docs/CacheTag-Whitepaper.pdf
 
 Credits
 Primary Author:
