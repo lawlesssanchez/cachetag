@@ -7,7 +7,7 @@ Abe Jarrett
 
 Overview
 CacheTag™ is a lightweight, hashtag-triggered RAG cache that returns curated Top-5 HashPacks™ instead of regenerating full LLM responses. This system dramatically reduces redundant computation, improves answer stability, and provides fast, predictable responses.
-HashPacks automatically refresh every 30 days (TTL) or on user request, creating a sustainable, energy-efficient AI workflow that delivers many benefits of Retrieval-Augmented Generation (RAG) without embeddings or vector databases.
+HashPacks automatically refresh every 30 days (TTL) or on user request, creating a sustainable, energy-efficient AI workflow that delivers many benefits of Retrieval-Augmented Generation (RAG) without embeddings or vector databases. This repository introduces CacheTag — a just-in-time memory and retrieval system built to work seamlessly with Model Context Protocol (MCP), enabling AI models to access only the precise, policy-approved information they need in real time.
 
 How CacheTag Works
 1. Hashtag Trigger
